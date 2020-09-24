@@ -21,3 +21,7 @@ Overall this worked as a great custom asset tracking system using a Raspberry Pi
  https://github.com/pybluez/pybluez/blob/master/docs/install.rst
  
   It provides installation instructions and which dependencies are needed for each.
+  
+  My personal demo video:
+  
+  https://youtu.be/M5RWFQiVFgA
