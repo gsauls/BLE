@@ -11,4 +11,5 @@ Overall this worked as a great custom asset tracking system using a Raspberry Pi
 
   The PyBlueZ library is a bit tricky to work with. It supposedly works on Windows and MacOS as well, with the right dependencies
  installed. I have yet to get it to work on either. Even for Linux it took a bit of debugging to get the right dependencies. You can
- find those that are needed under the PyBlueZ github I believe. 
+ find those that are needed under the PyBlueZ github I believe. Here is a link to that:
+ https://github.com/pybluez/pybluez
